@@ -1,12 +1,6 @@
 <div align="center">
 
-# `angie@sec:~$ whoami`
-
-# Angela "Angie" Conner
-
-### Cybersecurity × AI Security
-
-**Build it. Understand it. Secure it.**
+<img src="assets/github-banner.png" alt='angie@sec:~$ whoami — Angela "Angie" Conner — Cybersecurity × AI Security — Build it. Understand it. Secure it.' width="100%" />
 
 Exploring the intersection of cybersecurity and artificial intelligence through hands-on projects, labs, automation, and secure AI experimentation.
 
