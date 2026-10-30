@@ -62,6 +62,27 @@ Upcoming areas of experimentation include:
 
 ---
 
+## 🎓 Learning & Credentials
+
+| | Credential / Program | Status |
+|---|---|---|
+| 🏫 | **Long Beach City College** — Information Technology & Cybersecurity Certificate | 🟡 In progress |
+| 🚘 | **Long Beach City College** — Cybersecurity & Automotive Certificate | 🟡 In progress |
+| 🛠️ | **CompTIA A+** | 🟡 In progress |
+| 🛡️ | **CompTIA Security+** | 🟡 In progress |
+| 👩🏽‍💻 | **WiCyS Training Scholarship** — Tier 1 (SANS Boot Up CTF) | 🟢 Selected |
+| 🚩 | **National Cyber League (NCL)** — Fall 2026 | 🟡 Competing |
+
+### 🤝 Community
+
+Proud member of **ISSA Los Angeles**, **Women in CyberSecurity (WiCyS)**, and **Women's Cyber Jutsu**.
+
+### 💼 What I Bring
+
+12+ years of customer service and team leadership — including supervising teams in **HIPAA-regulated** healthcare environments — now applied to security: protecting data, following policy, and keeping people at the center of the system.
+
+---
+
 ## 🚀 Featured Work
 
 ### 🔐 WSC DevSecOps Lab
